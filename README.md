@@ -43,12 +43,16 @@ There are two things to remember when bending a rack:
 -	compensate for spring-back
 
 It is a good idea to bend over a flat surface. That way, the results will be flat if you maintain a constant distance from the flat surface.
-To make a bend, position the bender so that the bend starts at the first mark. Most hand benders are marked so that you know where the bend starts. So align the start mark on tube with 0⁰on the bender. Then bend a little beyond 90 degrees and watch the spring-back. If necessary, repeat until the end mark on the tube aligns with the 90⁰ mark on the bender after spring-back.
+
+To make a bend, position the bender so that the bend starts at the first mark. Most hand benders are marked so that you know where the bend starts. So align the start mark on tube with 0⁰ on the bender. Then bend a little beyond 90 degrees and watch the spring-back. If necessary, repeat until the end mark on the tube aligns with the 90⁰ mark on the bender after spring-back.
  
 Continue to the 2nd, 3rd and 4th bend in a similar manner.
+
 When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it as flat as best you can. Brazing over a flat plate will further flatten the rack.
-Please note that the ends will overlap, as rounded corners use less material than straight corners. 
-Note: A hand bender can do this job as accurately as a bending jig, but not as fast. If you are planning on building many racks, jigs are essential.
+
+When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the length calculation. 
+
+For large production volumes a bending jig is essential because it is much faster and produces consistently the same results.
  
 ## Clamping the Tubes and Cutting the Overlap
 Clamp the recently bent frame of the rack to a flat steel surface. Measures the sides with a yardstick to ensure that the opposite sides are of equal length. Mark the overlap of the joint and cut to size.
@@ -58,16 +62,21 @@ Cut a short length of sleeve (3/8" or 10mm) and check that it slides on and off 
 
 ## Prepping the Tubes
 All mating surfaces on the rack need clean surfaces for brazing. You will need to sand the outside of the tubes, the inside, and the mating edges. Wrap a thin strip of sandpaper around the rattail file to get inside the edge of the support tubes.
- - 
+
 ## Brazing the Tubes
 Slip the sleeve over an end of the frame.
 Clamp the frame of the rack to a flat steel surface.
-Measures the sides with a yardstick to ensure that the opposite sides are of equal length. If you want to be extra careful, compare the length of the diagonal corners. The diagonal measurements should be the same length. 
+Measures the sides with a yardstick to ensure that the opposite sides are of equal length. If you want to be extra careful, compare the length of the diagonal corners. The diagonal measurements should be the same length.
+
 Assemble the support tubes. File and adjust as necessary. When all three support tubes fit cleanly and are evenly spaced, clamp them to the steel plate.
+
 Tack braze all the pieces together, while they are clamped to the plate. 
+
 Once tacked, remove the clamps.
+
 Fillet braze each contact surface, over the edge of the steel plate.
-A flat plate and some clamps are all that’s needed to give good results for one-off racks. If you plan to build many racks, a brazing jig will get the job done faster as you will have to measure only once during set-up.
+
+A flat plate and some clamps are all that’s needed to give good results for one-off racks. If you plan to build many racks, a brazing jig will get the job done faster as you only need to measure once, during set-up.
  
 ## Clean-up
 Once the platform has cooled off, clean it and sand the mating surfaces.
