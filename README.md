@@ -29,6 +29,8 @@ You will also need 3 tubes the length of the long side, less the diameter of the
 The ends of the support tubes need to be mitered to match the shape of the rack. Do this with the rat-tail file. Occasionally stop to check the profile against the side of a tube.
 The opposite end need that same treatment, but at exactly the same angle. Care should be taken so that the bottoms of the concave miters align.
 If you have access to a milling machine, mitering is much easier.
+
+![mitering_on_a_mill](https://user-images.githubusercontent.com/42239030/43993774-6bacdcf6-9d9b-11e8-9df9-30bd5d9de331.jpg)
   
 ## Marking the Corners of the Main Tube
 The main rack tube is straight at the start. You will need to bend it accurately and along the same plane. Start by marking the corners of the main tube. 
