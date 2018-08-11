@@ -10,7 +10,7 @@ The photo below shows the pieces used in the platform, prior to brazing.
 
 ![platform_pieces_lr](https://user-images.githubusercontent.com/42239030/43993704-7dc5429e-9d9a-11e8-8327-2449877b269d.jpg)
  
-## Tools and Materials
+## Tools and Expendable Materials
 You will also need the following tools and materials to make the rack’s platform:
 -	hacksaw or pipe-cutter
 -	sandpaper
@@ -61,6 +61,8 @@ When you are finished you should have a nearly flat rack. If it is not flat, tak
 When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the length calculation. 
 
 For large production volumes a bending jig is essential because it is much faster and produces consistently the same results.
+
+![bending_jig_with_8mm_tube_prior_to_1st_bend-lr](https://user-images.githubusercontent.com/42239030/43993855-7b1a6158-9d9c-11e8-9867-87873e9ef26b.jpg)
  
 ## Clamping the Tubes and Cutting the Overlap
 Clamp the recently bent frame of the rack to a flat steel surface. Measures the sides with a yardstick to ensure that the opposite sides are of equal length. Mark the overlap of the joint and cut to size.
