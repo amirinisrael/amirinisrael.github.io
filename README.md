@@ -89,6 +89,8 @@ Once tacked, remove the clamps.
 Fillet braze each contact surface, over the edge of the steel plate.
 
 A flat plate and some clamps are all that’s needed to give good results for one-off racks. If you plan to build many racks, a brazing jig will get the job done faster as you only need to measure once, during set-up.
+
+![brazing-jig-lr](https://user-images.githubusercontent.com/42239030/43993953-99e235e2-9d9d-11e8-861c-930b2d30e9b4.jpg)
  
 ## Clean-up
 Once the platform has cooled off, clean it and sand the mating surfaces.
