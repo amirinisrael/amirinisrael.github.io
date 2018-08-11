@@ -73,6 +73,8 @@ Cut a short length of sleeve (3/8" or 10mm) and check that it slides on and off 
 ## Prepping the Tubes
 All mating surfaces on the rack need clean surfaces for brazing. You will need to sand the outside of the tubes, the inside, and the mating edges. Wrap a thin strip of sandpaper around the rattail file to get inside the edge of the support tubes.
 
+![tube_cleaning_internal-lr](https://user-images.githubusercontent.com/42239030/43993922-5450c1ce-9d9d-11e8-9acb-87a6a1e78508.jpg)
+
 ## Brazing the Tubes
 Slip the sleeve over an end of the frame.
 Clamp the frame of the rack to a flat steel surface.
