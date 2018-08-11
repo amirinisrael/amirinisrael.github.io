@@ -41,6 +41,7 @@ Tubes are bent around a radius, so the corners must be marked so that you know w
 There are two things to remember when bending a rack:
 -	maintain the plane
 -	compensate for spring-back
+
 It is a good idea to bend over a flat surface. That way, the results will be flat if you maintain a constant distance from the flat surface.
 To make a bend, position the bender so that the bend starts at the first mark. Most hand benders are marked so that you know where the bend starts. So align the start mark on tube with 0⁰on the bender. Then bend a little beyond 90 degrees and watch the spring-back. If necessary, repeat until the end mark on the tube aligns with the 90⁰ mark on the bender after spring-back.
  
