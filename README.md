@@ -1,10 +1,11 @@
 # How to Make the Platform for a "Pizza Rack"
 
-"Pizza Rack" is a fancy name for a big, flat, all-purpose bike rack that can carry heavy items. The name comes from the pizzas that bike couriers delivered late at night. Pizza racks are typically used on city and shopping bikes. This entry describes how to make the platform of a pizza rack.
+"Pizza Rack" is a fancy name for a big, flat, all-purpose bike rack that can carry heavy loads. The name comes from the pizzas that bike couriers delivered late at night. Pizza racks are typically used on city and shopping bikes. This entry describes how to make the platform of a pizza rack.
 
 ![tokyo_back_rack_lr](https://user-images.githubusercontent.com/42239030/43993761-433da372-9d9b-11e8-9886-3d121b69994a.jpg)
  
-The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry one shopping bag, measure its bottom and add an inch on all sides. The example in these instructions is based upon a large laptop computer.
+The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry one supermaket paper bag, measure its bottom and add an inch on all sides. The example in these instructions is based upon a large laptop computer.
+
 Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" thick steel tubing (the European equivalent is 8mm OD x 1mm thick). You'll need to source these before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
 The photo below shows the pieces used in the platform, prior to brazing.
 
@@ -27,7 +28,7 @@ You will also need 3 tubes the length of the long side, less the diameter of the
 
 ## Mitering the Support Tubes
 The ends of the support tubes need to be mitered to match the shape of the rack. Do this with the rat-tail file. Occasionally stop to check the profile against the side of a tube.
-The opposite end need that same treatment, but at exactly the same angle. Care should be taken so that the bottoms of the concave miters align.
+The opposite end needs the same treatment, but at exactly the same angle. Care should be taken so that the bottoms of the concave miters align.
 If you have access to a milling machine, mitering is much easier.
 
 ![mitering_on_a_mill](https://user-images.githubusercontent.com/42239030/43993774-6bacdcf6-9d9b-11e8-9df9-30bd5d9de331.jpg)
@@ -56,16 +57,16 @@ To make a bend, position the bender so that the bend starts at the first mark. M
  
 Continue to the 2nd, 3rd and 4th bend in a similar manner.
 
-When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it as flat as best you can. Brazing over a flat plate will further flatten the rack.
+When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it flat as best you can. Clamping and brazing over a flat plate will further flatten the rack.
 
-When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the length calculation. 
+When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the abovementioned length calculation. 
 
-For large production volumes a bending jig is essential because it is much faster and produces consistently the same results.
+For large production volumes a bending jig is essential because it is much faster and produces consistent results.
 
 ![bending_jig_with_8mm_tube_prior_to_1st_bend-lr](https://user-images.githubusercontent.com/42239030/43993855-7b1a6158-9d9c-11e8-9867-87873e9ef26b.jpg)
  
 ## Clamping the Tubes and Cutting the Overlap
-Clamp the recently bent frame of the rack to a flat steel surface. Measures the sides with a yardstick to ensure that the opposite sides are of equal length. Mark the overlap of the joint and cut to size.
+Clamp the recently bent "frame" of the rack to a flat steel surface. Measures the sides with a yardstick to ensure that the opposite sides are of equal length. Mark the overlap of the joint and cut to size.
 
 ## Cutting a Sleeve
 Cut a short length of sleeve (3/8" or 10mm) and check that it slides on and off both sides of the join.
@@ -76,7 +77,7 @@ All mating surfaces on the rack need clean surfaces for brazing. You will need t
 ![tube_cleaning_internal-lr](https://user-images.githubusercontent.com/42239030/43993922-5450c1ce-9d9d-11e8-9acb-87a6a1e78508.jpg)
 
 ## Brazing the Tubes
-Slip the sleeve over an end of the frame.
+Slip the sleeve over an end of the platform frame.
 Clamp the frame of the rack to a flat steel surface.
 Measures the sides with a yardstick to ensure that the opposite sides are of equal length. If you want to be extra careful, compare the length of the diagonal corners. The diagonal measurements should be the same length.
 
