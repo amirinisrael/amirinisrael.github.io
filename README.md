@@ -2,7 +2,7 @@
 
 "Pizza Rack" is a fancy name for a big, flat, all-purpose bike rack that can carry heavy items. The name comes from the pizzas that bike couriers delivered late at night. Pizza racks are typically used on city and shopping bikes. This entry describes how to make the platform of a pizza rack.
 
-![tokyo_back_rack](https://user-images.githubusercontent.com/42239030/43993665-deb54028-9d99-11e8-81fd-61c6e5260697.jpg)
+![tokyo_back_rack_lr](https://user-images.githubusercontent.com/42239030/43993761-433da372-9d9b-11e8-9886-3d121b69994a.jpg)
  
 The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry one shopping bag, measure its bottom and add an inch on all sides. The example in these instructions is based upon a large laptop computer.
 Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" thick steel tubing (the European equivalent is 8mm OD x 1mm thick). You'll need to source these before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
