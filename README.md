@@ -37,9 +37,9 @@ If you have access to a milling machine, mitering is much easier.
 The main rack tube is straight at the start. You will need to bend it accurately and along the same plane. Start by marking the corners of the main tube. 
 -	The first mark goes at 1/2 the length of the long side 
 (since the two ends meet at the center of the long side after it is bent).
--	The second mark goes one short side length beyond that first mark.
--	The third mark goes the long side length beyond the second mark.
--	The fourth mark goes the short side length beyond the third mark.
+-	The second mark goes one short side length beyond the first mark.
+-	The third mark goes one long side length beyond the second mark.
+-	The fourth mark goes one short side length beyond the third mark.
 
 ## Marking the Start/Stop Points on the Bends
 Tubes are bent around a radius, so the corners must be marked so that you know where to start and where to finish each bend. Since each tube bender has a unique radius, calculate the start and stop by adding 1/8 x πD on each side of each mark. Please note that your diameter is bigger than the bender's diameter by the size of the tube (i.e. add 3/16" or 8mm to the diameter of the bender when calculating start and stop).
