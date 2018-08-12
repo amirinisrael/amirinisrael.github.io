@@ -42,7 +42,7 @@ The main rack tube is straight at the start. You will need to bend it accurately
 -	The fourth mark goes one short side length beyond the third mark.
 
 ## Marking the Start/Stop Points on the Bends
-Tubes are bent around a radius, so the corners must be marked so that you know where to start and where to finish each bend. Since each tube bender has a unique radius, calculate the start and stop by adding 1/8 x πD on each side of each mark. Please note that your diameter is bigger than the bender's diameter by the size of the tube (i.e. add 3/16" or 8mm to the diameter of the bender when calculating start and stop).
+Tubes are bent around a radius, so the corners must be marked so that you know where to start and where to finish each bend. Since each tube bender has a unique radius, calculate the start and stop by adding 1/8 x πD on each side of each mark. Please note that your diameter is larger than the bender's diameter by the size of the tube (i.e. add 3/16" or 8mm to the diameter of the bender when calculating start and stop). To be sure, measure the bender's diameter with caliper jaws placed at the center of its channel.
 
 ## Bending the Main Tube
 There are two things to remember when bending a rack:
