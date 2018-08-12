@@ -6,7 +6,7 @@
  
 The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry a laptop computer, measure its length and width and add an inch to all 4 sides.
 
-Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" thick steel tubing (the European equivalent is 8mm OD x 1mm thick). You'll need to source the tubing before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
+Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" steel tubing (the European equivalent is 8mm OD x 1mm). You'll need to source the tubing before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
 The photo below shows the pieces used in the platform, prior to brazing.
 
 ![platform_pieces_lr](https://user-images.githubusercontent.com/42239030/43993704-7dc5429e-9d9a-11e8-8327-2449877b269d.jpg)
@@ -14,7 +14,7 @@ The photo below shows the pieces used in the platform, prior to brazing.
 ## Tools and Expendable Materials
 In addition to the tubing, you will also need the following tools and expendables to make the rack’s platform:
 -	hacksaw or pipe-cutter
--	sandpaper
+-	80 grit emery cloth or sandpaper
 -	rat-tail file
 -	5/16" tube bender
 -	yardstick or steel ruler
@@ -24,7 +24,7 @@ In addition to the tubing, you will also need the following tools and expendable
 
 ## Cutting the Tubes
 Start by adding up the lengths of the sides of the rack and cutting a tube to that length. 
-You will also need 3 tubes the length of the long side, less the diameter of the tube, for support.
+You will also need 3 tubes the length of the long sideless the diameter of the tube, for support.
 
 ## Mitering the Support Tubes
 The ends of the support tubes need to be mitered to match the shape of the rack. Do this with the rat-tail file. Occasionally stop to check the profile against the side of a tube.
@@ -42,7 +42,7 @@ The main rack tube is straight at the start. You will need to bend it accurately
 -	The fourth mark goes one short side length beyond the third mark.
 
 ## Marking the Start/Stop Points on the Bends
-Tubes are bent around a radius, so the corners must be marked so that you know where to start and where to finish each bend. Since each tube bender has a unique radius, calculate the start and stop by adding 1/8 x πD on each side of each mark. Please note that your diameter is larger than the bender's diameter by the size of the tube (i.e. add 3/16" or 8mm to the diameter of the bender when calculating start and stop). To be sure, measure the bender's diameter with caliper jaws placed at the center of its channel.
+Tubes are bent around a radius, so the corners must be marked so that you know where to start and where to finish each bend. Since each tube bender has a unique radius, calculate the start and stop by adding 1/8 x πD on each side of each mark. Please note that your diameter is larger than the bender's diameter by the size of the tube (i.e. add 3/16" or 8mm to the diameter of the bender when calculating start and stop). To be sure, measure the bender's diameter with a caliper by placing the jaws at the center of its channel.
 
 ## Bending the Main Tube
 There are two things to remember when bending a rack:
@@ -57,9 +57,9 @@ To make a bend, position the bender so that the bend starts at the first mark. M
  
 Continue to the 2nd, 3rd and 4th bend in a similar manner.
 
-When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it flat, as best you can. Clamping and brazing over a flat plate do the rest.
+When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it flat, as best you can. Clamping and brazing over a flat plate does the rest.
 
-When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the abovementioned length calculation. 
+When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the initial length calculation. 
 
 For large production volumes a bending jig is essential because it is much faster and produces consistent results.
 
@@ -72,7 +72,7 @@ Clamp the recently bent "frame" of the rack to a flat steel surface. Measures th
 Cut a short length of sleeve (3/8" or 10mm) and check that it slides on and off both sides of the join.
 
 ## Prepping the Tubes
-All mating surfaces on the rack need clean surfaces for brazing. You will need to sand the outside of the tubes, the inside, and the mating edges. Wrap a thin strip of sandpaper around the rattail file to get inside the edge of the support tubes.
+All mating surfaces on the rack need clean, bare surfaces for brazing. You will need to sand the outside of the tubes, the inside, and the mating edges. Wrap a thin strip of sandpaper around the rattail file to get inside the edge of the support tubes. Then wipe the surfaces with a dty cloth to remove any dust. 
 
 ![tube_cleaning_internal-lr](https://user-images.githubusercontent.com/42239030/43993922-5450c1ce-9d9d-11e8-9acb-87a6a1e78508.jpg)
 
@@ -94,7 +94,7 @@ A flat plate and some clamps are all that’s needed to give good results for on
 ![brazing-jig-lr](https://user-images.githubusercontent.com/42239030/43993953-99e235e2-9d9d-11e8-861c-930b2d30e9b4.jpg)
  
 ## Clean-up
-Once the platform has cooled off, clean it and sand the mating surfaces.
+Once the platform has cooled off, rinse and scrape off the glazed flux and sand the mating surfaces.
 
 ## Further Reading
 Brazing the legs will be described in another entry.
