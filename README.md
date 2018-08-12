@@ -51,13 +51,13 @@ There are two things to remember when bending a rack:
 
 It is a good idea to bend over a flat surface. That way, the results will be flat if you maintain a constant distance from that surface.
 
-To make a bend, position the bender so that the bend starts at the first mark. Most hand benders are marked so that you know where the bend starts. So align the start mark on tube with 0⁰ on the bender. Then bend a little beyond 90 degrees and watch the spring-back. If necessary, repeat until the end mark on the tube aligns with the 90⁰ mark on the bender after spring-back.
+To make a bend, position the bender so that the bend starts at the first mark. Most hand benders are marked so that you know where the bend starts. So align the start mark on tube with 0⁰ on the bender. Then bend a little beyond 90⁰ and watch the spring-back. If necessary, repeat until the end mark on the tube aligns with the 90⁰ mark on the bender after spring-back.
  
 ![swagelock_bender-lr](https://user-images.githubusercontent.com/42239030/43993800-e2fb20f6-9d9b-11e8-9f2c-419c0f2e2d62.jpg)
  
 Continue to the 2nd, 3rd and 4th bend in a similar manner.
 
-When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it flat as best you can. Clamping and brazing over a flat plate will further flatten the rack.
+When you are finished you should have a nearly flat rack. If it is not flat, take the time to bend it flat, as best you can. Clamping and brazing over a flat plate do the rest.
 
 When you finish the last bend you will see that the ends overlap. This is because rounded corners use less material than the straight corners assumed in the abovementioned length calculation. 
 
