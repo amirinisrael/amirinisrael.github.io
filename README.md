@@ -4,15 +4,15 @@
 
 ![tokyo_back_rack_lr](https://user-images.githubusercontent.com/42239030/43993761-433da372-9d9b-11e8-9886-3d121b69994a.jpg)
  
-The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry one supermaket paper bag, measure its bottom and add an inch on all sides. The example in these instructions is based upon a large laptop computer.
+The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry a laptop computer, measure its bottom and add an inch on all sides.
 
-Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" thick steel tubing (the European equivalent is 8mm OD x 1mm thick). You'll need to source these before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
+Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" thick steel tubing (the European equivalent is 8mm OD x 1mm thick). You'll need to source the tubing before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
 The photo below shows the pieces used in the platform, prior to brazing.
 
 ![platform_pieces_lr](https://user-images.githubusercontent.com/42239030/43993704-7dc5429e-9d9a-11e8-8327-2449877b269d.jpg)
  
 ## Tools and Expendable Materials
-You will also need the following tools and materials to make the rack’s platform:
+In addition to the tubing, you will also need the following tools and expendables to make the rack’s platform:
 -	hacksaw or pipe-cutter
 -	sandpaper
 -	rat-tail file
