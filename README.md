@@ -24,7 +24,7 @@ In addition to the tubing, you will also need the following tools and expendable
 
 ## Cutting the Tubes
 Start by adding up the lengths of the sides of the rack and cutting a tube to that length. 
-You will also need 3 tubes the length of the long sideless the diameter of the tube, for support.
+You will also need 3 tubes the length of the long side, less the diameter of the tube, for support.
 
 ## Mitering the Support Tubes
 The ends of the support tubes need to be mitered to match the shape of the rack. Do this with the rat-tail file. Occasionally stop to check the profile against the side of a tube.
