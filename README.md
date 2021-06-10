@@ -4,7 +4,7 @@
 
 ![tokyo_back_rack_lr](https://user-images.githubusercontent.com/42239030/43993761-433da372-9d9b-11e8-9886-3d121b69994a.jpg)
  
-The first thing to do when making a rack is to decide how large you want the rack platform to be. For example, if you plan to carry a laptop computer, measure its length and width and add an inch to all four sides.
+The first thing to do when making a rack is to decide how large you want the platform to be. For example, if you plan to carry a laptop computer, measure its length and width and add an inch to all four sides.
 
 Heavy-duty pizza racks are normally made out of 5/16" OD x 0.035" steel tubing (the European equivalent is 8mm OD x 1mm). You'll need to source the tubing before you start. The sleeve used to connect the ends is one size up (3/8" x 0.028" or 10mm x 1mm).
 The photo below shows the pieces used in the platform, prior to brazing.
